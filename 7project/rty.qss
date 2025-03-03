@@ -1,0 +1,4 @@
+QPushButton{border-image:url(:/image/image/4.jpg)}
+QWidget#widget{background-color:#98F5FF}
+QPushButton:hover{border-image:url(:/image/image/1.jpg)}
+QPushButton:checked{border-image:url(:/image/image/6.jpg)}
