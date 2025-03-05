@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>pen.jpg</file>
+        <file>penpressed.jpg</file>
+        <file>left.jpg</file>
+        <file>leftpressed.jpg</file>
+    </qresource>
+</RCC>
